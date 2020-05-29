@@ -1,0 +1,1 @@
+Here is a simple Graphing tool using a python library, pygame. You need to save all the files including the .png photos in the same directory and make sure you have pygame installed. if not, open connamd promt and do "pip install pygame"
